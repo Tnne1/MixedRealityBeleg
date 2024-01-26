@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638412488230000000
+      ticks: 638412517830000000
     m_Hash: 2705392910
   m_LockFileStatus:
     m_FilePath: /Users/andreas/Documents/Uni/6_Semester/MixedReality/MixedRealityBeleg/VR_TD/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638412488230000000
+      ticks: 638412517830000000
     m_Hash: 2889126223
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
